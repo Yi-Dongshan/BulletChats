@@ -1,10 +1,4 @@
 # -*- coding = utf-8 -*-
-# @Time : 2022/3/4 21:31
-# @Author : 易东山
-# @File :
-# @Software: PyCharm
-
-
 import os
 import csv
 import pprint
